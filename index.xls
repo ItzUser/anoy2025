@@ -1,0 +1,979 @@
+<script language="JavaScript">
+    document.addEventListener("contextmenu", function(e) {
+        e.preventDefault();
+    }, false);
+</script>
+		
+		<table border='1'>
+			<tr>
+				<td >No.</td>
+				<td  width='500px'>Soal</td>
+				<td >jenis</td>
+				<td >pilA</td>
+				<td >pilB</td>
+				<td >pilC</td>
+				<td >pilD</td>
+				<td >pilE</td>
+				<td >file</td>
+				<td >file1</td>
+				<td >fileA</td>
+				<td >fileB</td>
+				<td >fileC</td>
+				<td >fileD</td>
+				<td >fileE</td>
+				<td >jawaban</td>
+				
+				
+			</tr>
+					<tr>
+						<td>1</td>
+						<td> Mengoper bola dalam permainan bola voli kepada teman dengan teknik tertentu disebut dengan ....</td>
+						<td>1</td>
+						<td> smes</td>
+						<td> pasing</td>
+						<td> servis atas</td>
+						<td> servis bawah</td>
+						<td> membendung</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>2</td>
+						<td> Dalam permainan  bola voli, servis yang bolanya mengambang atau melambung ke atas dinamakan &hellip;.</td>
+						<td>1</td>
+						<td> servis atas</td>
+						<td> tennis service</td>
+						<td> floating service</td>
+						<td> jumping service</td>
+						<td> overhead service</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>3</td>
+						<td> Berikut ini yang merupakan jenis pukulan yang tidak diperbolehkan digunakan dalam permainan bola voli yaitu &hellip;.</td>
+						<td>1</td>
+						<td> pukulan tidak sempurna/double</td>
+						<td> bola diambil dengan lutut</td>
+						<td> bola diambil dengan kaki</td>
+						<td> bola terkena kepala</td>
+						<td> bola terkena muka</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>4</td>
+						<td> Salah satu kesalahan umum yang sering terjadi saat melakukan block dalam permainan bola voli adalah &hellip;.</td>
+						<td>1</td>
+						<td> jari-jari tangan dibuka lebar</td>
+						<td> pandangan tidak ke arah bola  </td>
+						<td> pergerakan tangan terlalu aktif</td>
+						<td> awalan terlalu dekat dengan net</td>
+						<td> pendaratan bertumpu pada kedua kaki </td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>5</td>
+						<td> Untuk melakukan serangan yang efektif, langkah yang harus dilakukan smasher saat memukul bola adalah &hellip;.</td>
+						<td>1</td>
+						<td> dipukul ke arah luar</td>
+						<td> dipukul ke daerah serang</td>
+						<td> disentuhkan dengan bloker</td>
+						<td> diarahkan ke pemain belakang</td>
+						<td> diarahkan ketempat yang kosong   </td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>6</td>
+						<td> Perhatikan hal-hal berikut ini :(1)Tim terkena sanksi kehilangan dua reli.(2)Tim terkena sanksi kehilangan satu reli.(3)Rotasi pemain akan dikembalikan ke rotasi awal.,(4)Rotasi pemain berputar satu posisi berlawanan dengan arah jarum jam.Sanksi yang dapat diperoleh oleh tim yang melakukan servis tidak sesuai dengan urutan rotasi dalam permainan bola voli ditunjukkan nomor &hellip;.</td>
+						<td>1</td>
+						<td> (1) dan (2)</td>
+						<td> (1) dan (3)</td>
+						<td> (2) dan (3)</td>
+						<td> (2) dan (4)</td>
+						<td> (3) dan (4)</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>7</td>
+						<td> Berikut ini adalah tahap persiapan untuk melakukan teknik dasar mengiring bola basket yaitu ....</td>
+						<td>1</td>
+						<td> berdiri tegak, tangan mendorong dan kemudian dengan cepat menaruhnya di ring basket.</td>
+						<td> kedua kaki terbuka ke samping, tubuh bersandar ke samping dan berat pada kedua kaki.</td>
+						<td> jika kedua kaki bersilang, tubuh kembali dan berat tubuh bertumpu pada kedua kaki.</td>
+						<td> berdiri tegak , tubuh sedikit condong ke depan dan berat tubuh berada di kaki depan.</td>
+						<td> berdiri tegak menghadap lurus ke depan dengan berat tubuh di kaki bagian depan.</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>8</td>
+						<td> Gerakan berputar dengan salah satu kaki sebagai poros dengan posisi tangan memegang bola basket disebut ....</td>
+						<td>1</td>
+						<td> slam dunk</td>
+						<td> rebound</td>
+						<td> shooting</td>
+						<td> reverse</td>
+						<td> pivot</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>9</td>
+						<td> Mengumpan bola basket menggunakan satu tangan kepada teman dinamakan dengan teknik ....</td>
+						<td>1</td>
+						<td> over head pass</td>
+						<td> baseball pass</td>
+						<td> bounce pass</td>
+						<td> chest pass</td>
+						<td> side pass</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>10</td>
+						<td> Unsur-unsur pelaksanaan pola pertahanan dalam permainan bola basket adalah &hellip;.</td>
+						<td>1</td>
+						<td> sikap jaga dan olah kaki </td>
+						<td> olah kaki dan strategi formasi</td>
+						<td> olah kaki dan pola penyerangan</td>
+						<td> sikap jaga dan pola penyerangan</td>
+						<td> strategi formasi dan pola penyerangan</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>11</td>
+						<td> Pola penyerangan dalam permainan bola basket yang membutuhkan kerja sama tim yang bagus dari setiap pemain tanpa harus bergantung pada penguasaan keterampilan gerak, taktik, dan kesempurnaan fisik setiap anggota tim dinamakan pola penyerang &hellip;.</td>
+						<td>1</td>
+						<td> kilat</td>
+						<td> bebas</td>
+						<td> berpola</td>
+						<td> bergantian</td>
+						<td> satu lawan satu</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>12</td>
+						<td> Berikut ini merupakan jenis pukulan yang dilakukan untuk mengarahkan shuttle cock, terbang tinggi, dan jatuh ke daerah permainan lawan bagian belakang disebut pukulan .&hellip;</td>
+						<td>1</td>
+						<td> dropshot</td>
+						<td> servis</td>
+						<td> drive</td>
+						<td> smes</td>
+						<td> lob</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>13</td>
+						<td> Berikut ini cara memegang raket dalam permainan bulu tangkis yang efesien dan efektif adalah &hellip;.</td>
+						<td>1</td>
+						<td> shakehand grip</td>
+						<td> amerikan grip</td>
+						<td> handle grip</td>
+						<td> jawa grip</td>
+						<td> V-Grip</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>14</td>
+						<td> Pukulan netting permainan bulu tangkis merupakan pukulan pendek yang dilakukan ....</td>
+						<td>1</td>
+						<td> di belakang net </td>
+						<td> di samping net</td>
+						<td> di bawah net</td>
+						<td> di depan net</td>
+						<td> di atas net</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>15</td>
+						<td> Dalam permainan bulu tangkis pukulan yang bolanya diarahkan ke bawah dengan kuat dan tajam yang mengarah ke bidang lapangan lawan dinamakan &hellip;.</td>
+						<td>1</td>
+						<td> pukulan backhand</td>
+						<td> pukulan forehand</td>
+						<td> pukulan servis</td>
+						<td> netting</td>
+						<td> smes</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>16</td>
+						<td> Dalam permainan tenis meja terdapat pukulan dengan ayunan panjang sehingga menghasilkan pukulan  yang datar dan keras yang disebut dengan &hellip;.</td>
+						<td>1</td>
+						<td> push</td>
+						<td> chop</td>
+						<td> drive</td>
+						<td> servis</td>
+						<td> topspin</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>17</td>
+						<td> Berikut ini yang bukan teknik cara memegang bet dalam permainan tenis meja adalah &hellip;.</td>
+						<td>1</td>
+						<td> V-Grip</td>
+						<td> forehand</td>
+						<td> finlandia</td>
+						<td> shakehand</td>
+						<td> penholder grip</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>18</td>
+						<td> Pada lompat jauh gaya jongkok posisi badan saat melayang di udara adalah &hellip;.</td>
+						<td>1</td>
+						<td> lari</td>
+						<td> tegak</td>
+						<td> berjalan</td>
+						<td> jongkok</td>
+						<td> melenting</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>19</td>
+						<td> Gerakan olahraga lompat jauh dibagi menjadi empat tahapan yaitu &hellip;.</td>
+						<td>1</td>
+						<td> lari, melayang, tolakan, dan mendarat</td>
+						<td> lari, tolakan, melayang, dan mendarat</td>
+						<td> awalan, tolakan, melayang dan medarat</td>
+						<td> awalan, lemparan, selancar, dan mendarat</td>
+						<td> awalan, lari, tolakan, dan mendarat</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>20</td>
+						<td> Lari secepat mungkin dan langkahnya tidak boleh diubah adalah prinsip dari &hellip;.</td>
+						<td>1</td>
+						<td> start lari lompatan</td>
+						<td> awalan lompat jauh</td>
+						<td> gaya berjalan di udara</td>
+						<td> melompat pada tumpuhan </td>
+						<td> teknik mendarat lompat jauh</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>21</td>
+						<td> Tujuan utama dari olahraga lompat jauh yaitu melompat dengan .... </td>
+						<td>1</td>
+						<td> teknik gaya</td>
+						<td> jarak dekat</td>
+						<td> gerakan indah</td>
+						<td> sejauh mungkin</td>
+						<td> gerakan memutar</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>22</td>
+						<td>Besar sudut arah awalan pada lompat tinggi gaya straddle adalah &hellip;.</td>
+						<td>1</td>
+						<td>250o sampai 350o</td>
+						<td>350o sampai 400o</td>
+						<td>350o sampai 500o</td>
+						<td>400o sampai 550o</td>
+						<td>450o&nbsp;sampai 550o</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>23</td>
+						<td> Tempat pendaratan lompat tinggi yang paling aman yaitu dengan menggunakan &hellip;.</td>
+						<td>1</td>
+						<td> bak pasir</td>
+						<td> matras</td>
+						<td> lantai</td>
+						<td> kasur</td>
+						<td> busa</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>24</td>
+						<td> Pergantian tongkat pada lari estafet yang dilakukan dengan cara penerima tongkat melihat (menoleh) kepada pelari pemberi tongkat adalah teknik cara pergantian tongkat secara .....</td>
+						<td>1</td>
+						<td> non visual</td>
+						<td> ditangkap</td>
+						<td> dilempar</td>
+						<td> dijemput</td>
+						<td> visual</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>25</td>
+						<td> Perhatikan syarat pelari berikut ini !       1. Pelari harus memiliki kemampuan start yang cukup baik.      2. Harus berlari pada lintasan menikung      3. Pelari harus merupakan pelari tercepat dari keempat pelari.      4. Harus mampu menempatkan diri sebagai pelari terdepan. Syarat di atas adalah untuk pelari estafet yang ....</td>
+						<td>1</td>
+						<td> pertama</td>
+						<td> kedua</td>
+						<td> ketiga</td>
+						<td> keempat</td>
+						<td> kelima</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>26</td>
+						<td> Pada lari sambung atau estafet, start yang digunakan pelari pertama adalah start ....</td>
+						<td>1</td>
+						<td> berdiri</td>
+						<td> jongkok</td>
+						<td> melayang</td>
+						<td> jongkok pendek</td>
+						<td> melayang panjang</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>27</td>
+						<td> Berikut adalah penguasaan teknik yang salah saat melakukan lompat jangkit adalah .....</td>
+						<td>1</td>
+						<td> melayang</td>
+						<td> melompat</td>
+						<td> berjingkat</td>
+						<td> melangkah</td>
+						<td> hop dan step</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>28</td>
+						<td> Salah satu gerakan yang harus dilakukan untuk pelompat jangkit adalah gerakan hop. Gerakan hop adalah ....</td>
+						<td>1</td>
+						<td> menolak dengan dua kaki yang dilakukan secara bergantian.</td>
+						<td> menolak dengan dua kaki yang dilakukan secara bersamaan.</td>
+						<td> melompat dengan kaki yang dilakukan secara  bergantian.</td>
+						<td> menolak dengan satu kaki dan mendarat dengan kaki yang lain.</td>
+						<td> menolak dengan satu kaki dan mendarat dengan kaki yang sama.</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>29</td>
+						<td> Seorang atlet tolak peluru dinyatakan diskualifikasi apabila &hellip;</td>
+						<td>1</td>
+						<td> hasil tolakkan pelurunya dianggaap baik dan sah.</td>
+						<td> pada saat menolak, kaki berada di dalam lingkaran.</td>
+						<td> dipanggil sebanyak 3 kali si atlet tidak datang.</td>
+						<td> peluru yang ditolakkan jatuh di sektor lemparan.</td>
+						<td> setelah menolak, kembali lewat belakang sektor tolakan</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>30</td>
+						<td> Berat peluru untuk kelompok senior putri yang biasa diperlombakan adalah &hellip;.</td>
+						<td>1</td>
+						<td> 3 kg</td>
+						<td> 4 kg</td>
+						<td> 5 kg</td>
+						<td> 6 kg</td>
+						<td> 7 kg</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>31</td>
+						<td> Teknik dasar tolak peluru ada beberapa macam diantaranya adalah cara memegang peluru dimana peluru diletakkan pada ....</td>
+						<td>1</td>
+						<td> tangan kanan</td>
+						<td> lengan bawah</td>
+						<td> samping leher</td>
+						<td> telapak tangan</td>
+						<td> punggung tangan</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>32</td>
+						<td> Badan berbalik ke belakang, punggung menghadap ke arah lemparan merupakan sikap awal tolak peluru gaya &hellip;.</td>
+						<td>1</td>
+						<td> straddle</td>
+						<td> ortodoks</td>
+						<td> meyamping</td>
+						<td> fosbury flop</td>
+						<td> membelakangi</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>33</td>
+						<td> Cakram diletakan bagian tengah telapak tangan kanan kemudian buka keempat jari dan agak direnggangkan, hal ini bertujuan untuk ....</td>
+						<td>1</td>
+						<td> aturan yang telah  ditentukan</td>
+						<td> melempar cakram dengan benar</td>
+						<td> menutup bagian pinggir cakram</td>
+						<td> membuka bagian pinggir cakram</td>
+						<td> mendapatkan hasil yang maksimal</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>34</td>
+						<td> Sikap yang harus dimiliki oleh seorang pesilat adalah &hellip;.</td>
+						<td>1</td>
+						<td> bersikap tenang seperti air</td>
+						<td> bersikap mengalah walau dipukul</td>
+						<td> bersikap kesatria dan berilmu padi</td>
+						<td> bersikap masa bodoh terhadap orang lain</td>
+						<td> menunjukkan kemampuannya di depan umum</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>35</td>
+						<td> Berikut ini yang bukan termasuk teknik serangan dengan tangan dalam penacak silat adalah &hellip;.</td>
+						<td>1</td>
+						<td> tenik serangan dengan posisi tangan silang</td>
+						<td> tenik serangan dengan tangan melalui atas</td>
+						<td> tenik serangan dengan tangan melalui depan</td>
+						<td> tenik serangan dengan tangan melalui bawah</td>
+						<td> tenik serangan dengan tangan melalui samping</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>36</td>
+						<td> Berikut ini latihan untuk meningkatkan komponen koordinasi dalam kebugaran jasmani adalah ....</td>
+						<td>1</td>
+						<td> melemparkan bola basket kedalam ring</td>
+						<td> mengangkat dumble dengan durasi cepat</td>
+						<td> melakukan latihan drill neting bulutangkis</td>
+						<td> berlari melintasi halang rintang di alam terbuka</td>
+						<td> melempar bola kedinding dengan tangan bergantian</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>37</td>
+						<td> Aspek mental yang menjadi sasaran agar tubuh sehat dan kuat berkaitan dengan latihan kebugaran jasmani adalah ....</td>
+						<td>1</td>
+						<td> ambisius</td>
+						<td> rendah hati</td>
+						<td> kedisiplinan</td>
+						<td> individualitas</td>
+						<td> rela berkorban</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>38</td>
+						<td> Latihan kebugaran jasmani yang bertujuan melatih kekuatan otot perut disebut ....</td>
+						<td>1</td>
+						<td> sit up</td>
+						<td> pull up</td>
+						<td> push up</td>
+						<td> back roll</td>
+						<td> squat jump</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>39</td>
+						<td> Latihan berupa lari jarak 40 dan 60 meter, lari menaiki bukit, dan lari menuruni bukit adalah bentuk latihan ....</td>
+						<td>1</td>
+						<td> kekuatan</td>
+						<td> kecepatan</td>
+						<td> kelenturan</td>
+						<td> kelincahan</td>
+						<td> daya tahan</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>E</td>
+					</tr>
+				
+					<tr>
+						<td>40</td>
+						<td> Aktivitas kebugaran jasmani yang dapat meningkatkan kekuatan dan daya tahan otot lengan adalah ....</td>
+						<td>1</td>
+						<td> sit up</td>
+						<td> pull up</td>
+						<td> push up</td>
+						<td> back roll</td>
+						<td> squat jump</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>41</td>
+						<td> Sikap berdiri tegak lurus bertumpu pada kedua tangan dan badan digerakan kesamping menyerupai roda berputar disebut ....</td>
+						<td>1</td>
+						<td> kayang</td>
+						<td> meroda</td>
+						<td> sikap lilin</td>
+						<td> roll depan</td>
+						<td> roll belakang</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>42</td>
+						<td> Gerakan senam lantai yang mempunyai sikap awal dimulai dengan jongkok, letakkan  kedua tangan di atas matras, dan dagu kenakan ke dada, kemudian menggulingkan badan ke depan dinamakan ....</td>
+						<td>1</td>
+						<td> flik-flak</td>
+						<td> squat roll</td>
+						<td> round off</td>
+						<td> forward roll</td>
+						<td> handstand overslag</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>43</td>
+						<td> Komponen fisik di bawah ini yang dihasilkan dari kegiatan senam ritmik antara lain ....</td>
+						<td>1</td>
+						<td> daya tahan jantung dan kecepatan</td>
+						<td> kekuatan dan daya tahan otot</td>
+						<td> kelincahan dan kelentukan</td>
+						<td> kecepatan dan kelincahan</td>
+						<td> kekuatan dan kelentukan</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>C</td>
+					</tr>
+				
+					<tr>
+						<td>44</td>
+						<td> Berikut ini yang bukan merupakan alat yang digunakan dalam senam irama adalah &hellip;.</td>
+						<td>1</td>
+						<td> tali</td>
+						<td> topi</td>
+						<td> gada</td>
+						<td> bola</td>
+						<td> simpai</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>45</td>
+						<td> Menghirup udara pada saat bernapas renang gaya bebas dilakukan dengn cara ....</td>
+						<td>1</td>
+						<td> wajah ada di dalam air</td>
+						<td> kepala di putar ke samping</td>
+						<td> wajah di atas permukaan air</td>
+						<td> wajah menghadap ke bawah</td>
+						<td> udara di keluarkan di dalam air</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>46</td>
+						<td> Perenang menghadap ke dinding kolam dengan kedua belah tangan memegang besi pegangan. Kedua lutut ditekuk di antara kedua belah lengan, sementara kedua belah telapak kaki bertumpu di dinding kolam, merupakan sikap start dari renang ....</td>
+						<td>1</td>
+						<td> gaya dada</td>
+						<td> gaya bebas</td>
+						<td> gaya katak</td>
+						<td> gaya punggung  </td>
+						<td> gaya kupu-kupu</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+					<tr>
+						<td>47</td>
+						<td> Berikut ini yang bukan termasuk teknik dasar yang harus dikuasai untuk meminimalkan kecelakaan air adalah teknik ....</td>
+						<td>1</td>
+						<td> meluncur di air</td>
+						<td> berendam di air</td>
+						<td> mengapung di air</td>
+						<td> pernapasan di air</td>
+						<td> menggerakkan kaki </td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>48</td>
+						<td> Berikut ini yang bukan merupakan bagian dari kemajuan yang harus dicapai oleh setiap orang dalam usaha peningkatan pola hidup sehat adalah ....</td>
+						<td>1</td>
+						<td> kemajuan lahir diri sendiri</td>
+						<td> kemajuan kebahagian batin</td>
+						<td> kemajuan pendapatan materil</td>
+						<td> kemajuan selaku anggota masyarakat</td>
+						<td> kemajuan diri sendiri selaku individu</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>A</td>
+					</tr>
+				
+					<tr>
+						<td>49</td>
+						<td> Dalam pemeliharaan bahan makanan perlu diperhatikan mutu dari bahan yang akan dipilih dan hendaknya harus memenuhi persyaratan, antara lain ....</td>
+						<td>1</td>
+						<td> bagus dan menarik</td>
+						<td> nilai gizi dan segar</td>
+						<td> dikemas dan murah</td>
+						<td> tidak rusak dan aman</td>
+						<td> mahal dan kualitas ekspor</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>B</td>
+					</tr>
+				
+					<tr>
+						<td>50</td>
+						<td> Penyakit-penyakit yang disebabkan oleh kekurangan gizi dan sering terjadi di Indonesia adalah ....</td>
+						<td>1</td>
+						<td> gatal-gatal, sesak napas, diare</td>
+						<td> gizi buruk, mata berair, alergi susu</td>
+						<td> demam berdarah, diare, gizi buruk</td>
+						<td> animea, kekurangan vitamin A, stunting  </td>
+						<td> defisiensi protein kalori, vitamin A, yodium</td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td></td>
+						<td>D</td>
+					</tr>
+				
+		</table>
+	
