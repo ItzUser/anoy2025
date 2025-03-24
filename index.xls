@@ -1,1551 +1,484 @@
-<script language="JavaScript">
-    document.addEventListener("contextmenu", function(e) {
-        e.preventDefault();
-    }, false);
-</script>
-		
-		<table border='1'>
-			<tr>
-				<td >No.</td>
-				<td  width='500px'>Soal</td>
-				<td >jenis</td>
-				<td >pilA</td>
-				<td >pilB</td>
-				<td >pilC</td>
-				<td >pilD</td>
-				<td >pilE</td>
-				<td >file</td>
-				<td >file1</td>
-				<td >fileA</td>
-				<td >fileB</td>
-				<td >fileC</td>
-				<td >fileD</td>
-				<td >fileE</td>
-				<td >jawaban</td>
-				
-				
-			</tr>
-
-			<tr>
-						<td>1</td>
-						<td> Penerapan dalam bidang kedokteran pembuatan hormon sintetis berupa hormon insulin dimanfaatkan untuk mengobati penyakit .... </td>
-						<td>1</td>
-						<td> diabetes meilitus </td>
-						<td> kanker usus </td>
-						<td> hipertensi </td>
-						<td> terapi pertumbuhan </td>
-						<td> anemia </td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>2</td>
-						<td> Salah satu fungsi dari penggunaan pupuk kimia buatan berupa pupuk Urea dalam bidang pertanian adalah .... </td>
-						<td>1</td>
-						<td> meningkatkan kecepatan pertumbuhan tanaman </td>
-						<td> merangsang pembesaran batang tanaman </td>
-						<td> membuat daun tanaman menjadi lebih tebal </td>
-						<td> mempercepat munculnya umbi akar </td>
-						<td> merangsang pertumbuhan bakal buah </td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>3</td>
-						<td> Penerapan ilmu kimia dalam bidang farmasi juga digunakan untuk pembuatan .... </td>
-						<td>1</td>
-						<td> antibiotik</td>
-						<td> deterjen</td>
-						<td> besi baja</td>
-						<td> kertas</td>
-						<td> pupuk NPK</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>4</td>
-						<td> Untuk membasmi hama berupa hewan pengerat seperti tikus maka pestisida yang cocok digunakan adalah .... </td>
-						<td>1</td>
-						<td> rodentisida </td>
-						<td> herbisida </td>
-						<td> insektisida </td>
-						<td> fungsida </td>
-						<td> vermisida </td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>5</td>
-						<td> Perhatikan Model atom di bawah ini!  Model atom pada gambar merupakan model atom temuan &hellip;.</td>
-						<td>1</td>
-						<td> John Dalton</td>
-						<td> E Rutherford</td>
-						<td> J.J Thompson</td>
-						<td> Niels Bohr</td>
-						<td> Isaac Newton</td>
-						<td></td>
-						<td>17421922528.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>6</td>
-						<td> Unsur 17421922521.png mengandung &hellip;.</td>
-						<td>1</td>
-						<td> Proton = 35, Neutron = 17, dan Elektron = 35</td>
-						<td> Proton = 35, Neutron = 17, dan Elektron = 17</td>
-						<td> Proton = 35, Neutron = 18, dan Elektron = 18</td>
-						<td> Proton = 17, Neutron = 18, dan Elektron = 18</td>
-						<td> Proton = 17, Neutron = 18, dan Elektron = 17</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>7</td>
-						<td> Konfigurasi elektron dari 174219225225.png adalah &hellip;.</td>
-						<td>1</td>
-						<td> 1S2  2S2  2P6  3S2  3P6  4S1       </td>
-						<td> 1S2  2S2  2P6  3S2  3P6         </td>
-						<td> 1S2  2S2  2P6  3S2         </td>
-						<td> 1S2  2S2  2P6         </td>
-						<td> 1S2  2S2  2P3         </td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>8</td>
-						<td> Elektron Valensi dari 174219225222.png adalah &hellip;.</td>
-						<td>1</td>
-						<td> 2</td>
-						<td> 4</td>
-						<td> 6</td>
-						<td> 8</td>
-						<td> 10</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>9</td>
-						<td> Perubahan wujud yang ditunjukkan nomor 1, 5, dan 6 pada gambar berturut&ndash;turut dinamakan ....</td>
-						<td>1</td>
-						<td> mencair, menguap, menyublim</td>
-						<td> membeku, menguap, mencair</td>
-						<td> menyublim, mengembun, membeku</td>
-						<td> mengembun, menyublin, mencair</td>
-						<td> menyublim, menguap, membeku</td>
-						<td></td>
-						<td>17421922529.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>10</td>
-						<td> Gambar di bawah merupakan contoh pemurnian alkohol dengan teknik .... </td>
-						<td>1</td>
-						<td> sublimasi </td>
-						<td> dekantasi</td>
-						<td> destilasi</td>
-						<td> filtrasi</td>
-						<td> sentrifugal</td>
-						<td></td>
-						<td>17421922522.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>11</td>
-						<td> Dari gambar di bawah ini, maka kita dapat menentukan sifat zat cair yang benar yaitu ....</td>
-						<td>1</td>
-						<td> A</td>
-						<td> B</td>
-						<td> C</td>
-						<td> D</td>
-						<td> E</td>
-						<td></td>
-						<td>174219225226.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>12</td>
-						<td> Di antara perubahan materi berikut yang termasuk perubahan kimia adalah ....</td>
-						<td>1</td>
-						<td> gula dilarutkan</td>
-						<td> bel listrik berdering</td>
-						<td> lilin menyala</td>
-						<td> air diuapkan</td>
-						<td> es mencair</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>13</td>
-						<td> Jika diketahui Ar (atom relatif) H = 1, S = 32 dan O = 16,maka Mr (massa relatif) dari H2SO4, adalah ....</td>
-						<td>1</td>
-						<td> 98</td>
-						<td> 100</td>
-						<td> 115</td>
-						<td> 120</td>
-						<td> 175</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>14</td>
-						<td> Jika diketahui Ar (atom relatif) Fe = 56, S = 32  dan O = 16, maka Mr (massa relatif) dari Fe2 (SO4)3 j adalah ....</td>
-						<td>1</td>
-						<td> 100</td>
-						<td> 200</td>
-						<td> 300</td>
-						<td> 400</td>
-						<td> 500</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>15</td>
-						<td> Jika diketahui Ar (atom relatif) C = 12 dan O = 16, maka jumlah mol yang terkandung di dalam 88 gram Karbondioksida (CO2), adalah ....</td>
-						<td>1</td>
-						<td> 1 mol</td>
-						<td> 2 mol</td>
-						<td> 2,56 mol</td>
-						<td> 3,12 mol</td>
-						<td> 4 mol</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>16</td>
-						<td> Jika diketahui Ar (atom relatif) C = 12 dan H = 1,maka jumlah gram Propana (C3H8) dalam 0,21 mol,adalah .... </td>
-						<td>1</td>
-						<td> 924 gram</td>
-						<td> 92,4 gram</td>
-						<td> 9,24 gram</td>
-						<td>0,924 gram</td>
-						<td> 0,0924 gram</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>17</td>
-						<td> Reaksi kimia di bawah ini, jika disetarakan akan menjadi ....</td>
-						<td>1</td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td></td>
-						<td>174219225219.png</td>
-						<td>174219225213.png</td>
-						<td>174219225210.png</td>
-						<td>17421922523.png</td>
-						<td>174219225223.png</td>
-						<td>174219225214.png</td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>18</td>
-						<td> Reaksi kimia di bawah ini, jika disetarakan akan menjadi ....</td>
-						<td>1</td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td></td>
-						<td>17421922526.png</td>
-						<td>174219225227.png</td>
-						<td>174219225220.png</td>
-						<td>174219225217.png</td>
-						<td>174219225211.png</td>
-						<td>17421922524.png</td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>19</td>
-						<td> Jumlah molaritas larutan yang dibuat dengan cara melarutkan 50 gram AgNO3 dalam 1000 ml air jika diketahui Mr AgNO3 = 150,adalah ....</td>
-						<td>1</td>
-						<td> 333,3 M</td>
-						<td> 33,3 M</td>
-						<td> 3,3 M</td>
-						<td> 0,33 M</td>
-						<td> 0,033 M</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>20</td>
-						<td> Jumlah molaritas dari asam sulfat pekat yang mengandung 90 % H2SO4 dan massa jenis H2SO4 = 1,8 Kg/L (diketahui Ar H = 1, S = 32 dan O = 16), adalah ...</td>
-						<td>1</td>
-						<td> 1 M</td>
-						<td> 1,25 M</td>
-						<td> 1,35 M</td>
-						<td> 2,45 M</td>
-						<td> 16,53 M</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>21</td>
-						<td> Nama IUPAC dari senyawa alkana di bawah ini adalah ....</td>
-						<td>1</td>
-						<td> 1- metil- Pentana</td>
-						<td> 2- metil- Pentana</td>
-						<td> 3-Pentana</td>
-						<td> 4- metil- Pentana</td>
-						<td> Metil- Pentana</td>
-						<td></td>
-						<td>174219225228.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>22</td>
-						<td> Nama IUPAC dari senyawa alkana di bawah ini adalah ....</td>
-						<td>1</td>
-						<td> 2,2- trimetil- 5- etil- Heptana</td>
-						<td> 3- etil- 6,6- dimetil- Heptana</td>
-						<td> 5- etil- 2,2- dimetil- Heptana</td>
-						<td> 6- etil- 2,3- dimetil- Heptana</td>
-						<td> 7- etil- 3,3- dimetil- Heptana</td>
-						<td></td>
-						<td>174219225221.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>23</td>
-						<td> Rumus struktur yang sesuai dengan nama senyawa 2,3 &ndash; Dimetil &ndash; Pentana di bawah ini adalah ....</td>
-						<td>1</td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td></td>
-						<td></td>
-						<td>174219225215.png</td>
-						<td>174219225229.png</td>
-						<td>174219225224.png</td>
-						<td>174219225218.png</td>
-						<td>174219225212.png</td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>24</td>
-						<td> Nama IUPAC dari rumus struktur senyawa alkena di bawah ini yang benar adalah ....</td>
-						<td>1</td>
-						<td> 4,5- dimetil- 2 heksena</td>
-						<td> 2,3- dimetil- 4 heksena</td>
-						<td> 4,5- dimetil- 2 heksana</td>
-						<td> 2,3- dimetil- 4 heksana</td>
-						<td> 2,3- metil- 4 heksena</td>
-						<td></td>
-						<td>17421922527.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>25</td>
-						<td> Nama IUPAC dari rumus struktur senyawa alkuna di bawah ini yang benar adalah ....</td>
-						<td>1</td>
-						<td>  2- metil- 3- heptuna</td>
-						<td> 2,2- metil- 1- heptana</td>
-						<td> 2,2- dimetil- 2- heptena</td>
-						<td> 2- etil- 2,5- dimetil- 2- heptuna</td>
-						<td> 2- etil- 2,5- dimetil- 3- heptuna   </td>
-						<td></td>
-						<td>174219225230.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>26</td>
-						<td> Dalam urine penderita penyakit diabetes dapat diidentifikasikan adanya senyawa ....</td>
-						<td>1</td>
-						<td> sukrosa</td>
-						<td> fruktosa</td>
-						<td> galaktosa</td>
-						<td> glukosa</td>
-						<td> maltosa</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>27</td>
-						<td> Pada proses pembuatan margarin, minyak dipadatkan menjadi lemak dengan cara ....</td>
-						<td>1</td>
-						<td> pemanasan</td>
-						<td> pendinginan</td>
-						<td> netralisasi</td>
-						<td> oksidasi</td>
-						<td> hidrogenasi</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>28</td>
-						<td> Polimer&nbsp;berikut yang&nbsp;tidak&nbsp;termasuk polimer alam adalah &hellip;.</td>
-						<td>1</td>
-						<td> tetoron</td>
-						<td> selulosa</td>
-						<td> amilum</td>
-						<td> protein</td>
-						<td> enzim</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>29</td>
-						<td> Komponen penyusun&nbsp;polimer&nbsp;disebut &hellip;.</td>
-						<td>1</td>
-						<td> rantai karbon</td>
-						<td> molekul</td>
-						<td> makromolekul</td>
-						<td> monomer</td>
-						<td> unsur</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>30</td>
-						<td> Polimer&nbsp;berikut yang tergolong polimer alam adalah &hellip;.</td>
-						<td>1</td>
-						<td> polietena</td>
-						<td> poliester</td>
-						<td> poliisoprena</td>
-						<td> butadiene stirena</td>
-						<td> polivinilklorida</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>31</td>
-						<td> Di antara bahan baku berikut yang dapat digunakan sebagai indikator asam basa alami adalah &hellip;.</td>
-						<td>1</td>
-						<td> asam sitrat</td>
-						<td> asam malat</td>
-						<td> asam tanat</td>
-						<td> asam butirat</td>
-						<td> asam tartarat</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>32</td>
-						<td> Cara paling tepat untuk membuktikan bahwa larutan natrium hidroksida bersifat basa adalah ....</td>
-						<td>1</td>
-						<td> mencicipinya dengan lidah, apabila terasa pahit berarti jenis larutan adalah basa</td>
-						<td> mencampur dengan cuka, apabila terbentuk gelembung gelembung berarti basa</td>
-						<td> menguji dengan kertas lakmus merah, jika berubah warna jadi biru berarti basa</td>
-						<td> mencampur dengan air jeruk nipis, apabila terbentuk garam dapur berarti basa</td>
-						<td> menguji dengan kertas lakmus biru, apabila berubah jadi warna merah berarti basa</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>33</td>
-						<td> Jika larutan X diteteskan pada kertas indikator universal dan kertas indikator universal menunjukkan perubahan warna ungu tua maka larutan X bersifat &hellip;.</td>
-						<td>1</td>
-						<td> asam lemah</td>
-						<td> basa lemah</td>
-						<td> asam kuat</td>
-						<td> basa kuat</td>
-						<td> netral</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>34</td>
-						<td> Suatu larutan diuji dengan beberapa indikator dan menghasilkan pH 4,4 < pH 6,0. Warna yang terjadi pada indikator berdasarkan data trayek pH perubahan warna beberapa indikator sebagai berikut, adalah ....</td>
-						<td>1</td>
-						<td> metil merah = merah</td>
-						<td> metil merah = jingga </td>
-						<td> bromtimol biru = biru </td>
-						<td> bromtimol biru = hijau </td>
-						<td> fenolftalein = merah</td>
-						<td></td>
-						<td>17421922525.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>35</td>
-						<td> Salah satu cara mencegah terjadinya reaksi korosi pada menara besi adalah ....</td>
-						<td>1</td>
-						<td> dilapisi dengan logam timah</td>
-						<td> direndam dengan air mineral</td>
-						<td> dibakar lalu ditempa (dipukul)</td>
-						<td> dicelupkan pada larutan asam</td>
-						<td> dihubungkan dengan lempeng magnesium</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>36</td>
-						<td> Mudah atau tidaknya logam berkarat tergantung pada .... </td>
-						<td>1</td>
-						<td> banyaknya air</td>
-						<td> keaktifan logam</td>
-						<td> suhu lingkungan</td>
-						<td> tingkat kebasaan</td>
-						<td>  banyaknya oksigen</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>37</td>
-						<td> Berikut ini beberapa contoh pemanfaatan bahan radioaktif dalam kehidupan sehari&ndash;hari yaitu:  1. kemoterapi  2. sinar rontgen (X&ndash;Rays)  3. mengukur ketebalan bahan logam  4. mendapatkan bibit unggul  5. mengawetkan bahan makanan  6. meneliti cara kerja hormon tiroid  Dari contoh manfaat di atas maka pemanfaatan bahan radioaktif dalam bidang kesehatan yang paling tepat adalah ....</td>
-						<td>1</td>
-						<td> 1, 2, 4</td>
-						<td> 1, 3, 6</td>
-						<td> 1, 4, 5</td>
-						<td> 1, 2, 6</td>
-						<td> 2, 3, 4</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>38</td>
-						<td> Berikut ini adalah manfaat radioaktif dalam kehidupan sehari&ndash;hari yaitu:   1. mengukur ketebalan kaca  2. mendapatkan bibit unggul  3. kemoterapi  4. menjaga produksi timah dalam pembuatan kaleng  5. mengawetkan benda&ndash;benda dari kayu seperti kerajinan tangan  6. sinar rontgen  Dari contoh manfaat di atas maka pemanfaatan bahan radioaktif dalam bidang industri yang paling tepat adalah ....</td>
-						<td>1</td>
-						<td> 1, 4, 6</td>
-						<td> 2, 3, 6</td>
-						<td> 1, 4, 3</td>
-						<td> 3, 5, 6</td>
-						<td> 1, 4, 5</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>39</td>
-						<td> Berikut ini merupakan contoh dampak negatif dari pemanfaatan radioaktif bagi kesehatan manusia yaitu:   1. terjadi kerusakan genetis 2. bisa membuat kemandulan pada sistemreproduksi  3. terjadi kelainan pada keturunannya seperti cacat  4. munculnya penyakit kwashiokor  5. resiko kanker darah atau biasa disebut leukimia  6. terjadi serangan jantung  7. kerusakan pada sistem syaraf  8. mengalami busung lapar  Dari contoh&ndash;contoh di atas maka dampak negatif dari pemanfaatan radioaktif bagi kesehatan manusia adalah .... </td>
-						<td>1</td>
-						<td> 1, 6, 5, 7, 8</td>
-						<td> 1, 5, 6, 7, 8</td>
-						<td> 1, 4, 5, 6, 8</td>
-						<td> 1, 3, 4, 5, 6</td>
-						<td> 1, 2, 3, 5, 7</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>40</td>
-						<td> Berikut ini adalah beberapa unsur radiokaktif yang dimanfaatkan oleh manusia, yaitu:  1. Bismuth 2. Natrium 3. Uranium 4. Iodine 5. Kobalt Yang tidak termasuk dalam unsur radiokaktif yang dimanfaatkan oleh manusia dalam bidang kesehatan, adalah ....</td>
-						<td>1</td>
-						<td> bismuth</td>
-						<td> natrium</td>
-						<td> uranium</td>
-						<td> iodine</td>
-						<td>  kobalt</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-					<tr>
-						<td>1</td>
-						<td> K3LH adalah pengertian tentang Program Kesehatan dan Keselamatan Kerja dan Lingkungan Hidup pada suatu perusahaan atau instansi lain yang memiliki banyak pekerja atau karyawan. Berikut ini yang BUKAN prinsip-prinsip yang harus dijalankan perusahaan dalam menerapkan keselamatan dan kesehatan kerja (K3) adalah&hellip;</td>
-						<td>1</td>
-						<td> Adanya APD (Alat Pelindung Diri) di tempat kerja</td>
-						<td> Adanya buku petunjuk penggunaan alat dan atau isyarat bahaya</td>
-						<td> Adanya daftar kecelakaan kerja  ditempat perusahaan</td>
-						<td> Adanya tempat kerja yang aman sesuai standar SSLK (syarat-syarat lingkungan kerja)</td>
-						<td> Adanya sarana dan prasarana yang lengkap ditempat kerja</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>2</td>
-						<td> Maksud dari pengertian K3LH adalah memahami dan menerapkan K3LH di setiap perusahaan. Adapun salah satu tujuan dari K3LH adalah&hellip;..</td>
-						<td>1</td>
-						<td> menciptakan suasana hubungan antar pimpinan dan karyawan menjadi sehat</td>
-						<td> menciptakan suasana ruangan yang bersahabat</td>
-						<td> menciptakan suasana kerja yang sehat, aman dan nyaman</td>
-						<td> menciptakan suasana lingkungan bersih dan teratur</td>
-						<td> menciptakan keuntungan perusahaan berlipat ganda</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>3</td>
-						<td> Dengan program K3LH, pekerja dan perusahaan bisa menikmati manfaatnya. Apakah manfaat K3LH bagi perusaahaan?</td>
-						<td>1</td>
-						<td> Akan tercipta hubungan yang lebih harmonis antara pemegang saham dan pimpinan perusahaan sehingga menghasilkan produk yang maksimal sesuai misi perusahaan</td>
-						<td> Akan tercipta hubungan yang lebih harmonis antara pemerintah  dan perusahaan  menghasilkan produk yang maksimal sesuai misi perusahaan</td>
-						<td> Akan tercipta hubungan yang lebih harmonis antara para pekerja dan perusahaan tempat mereka bekerja sehingga menghasilkan produk yang maksimal sesuai misi perusahaan</td>
-						<td> Perusahaan akan menjadi lebih bermutu dan sistematis untuk berkembang lebih cepat</td>
-						<td> Perusahaan akan menjadi lebih bermutu dan sistematis sesuai dengan harapan pimpinan perusahaan</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>4</td>
-						<td> Perhatikan tanda bahaya berikut ini!Bahaya yang timbul dari adanya peringatan seperti dibawah ini adalah&hellip;</td>
-						<td>1</td>
-						<td> Bahan tersebut bisa dapat menyebabkan penyakit mematikan seperti AIDS</td>
-						<td> Benda ini dapat mengeluarkan radiasi dan jika terpapar terlalu lama maka akan menyebabkan kanker</td>
-						<td> bahaya yang berasal dari benda-benda yang dapat membuat iritasi pada mata dan wajah</td>
-						<td> Tangan Anda akan kepanasan jika menyentuh benda tersebut dalam keadaan aktif atau menyala</td>
-						<td> bahaya yang berasal dari benda yang mudah meledak. Jauhkan benda tersebut dari api</td>
-						<td></td>
-						<td>174218751310.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>5</td>
-						<td> Perhatikan tanda bahaya berikut ini! Bahaya yang timbul dari adanya peringatan seperti dibawah ini adalah&hellip;</td>
-						<td>1</td>
-						<td> Bahan tersebut bisa dapat menyebabkan penyakit mematikan seperti AIDS</td>
-						<td> Benda ini dapat mengeluarkan radiasi dan jika terpapar terlalu lama maka akan menyebabkan kanker</td>
-						<td> bahaya yang berasal dari benda-benda yang dapat membuat iritasi pada mata dan wajah</td>
-						<td> Tangan Anda akan kepanasan jika menyentuh benda tersebut dalam keadaan aktif atau menyala</td>
-						<td> bahaya yang berasal dari benda yang mudah meledak. Jauhkan benda tersebut dari api</td>
-						<td></td>
-						<td>17421875135.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>6</td>
-						<td> Perhatikan tanda bahaya berikut ini!Bahaya yang timbul dari adanya peringatan seperti dibawah ini adalah&hellip;</td>
-						<td>1</td>
-						<td> Bahan tersebut bisa dapat menyebabkan penyakit mematikan seperti AIDS</td>
-						<td> Benda ini dapat mengeluarkan radiasi dan jika terpapar terlalu lama maka akan menyebabkan kanker</td>
-						<td> bahaya yang berasal dari benda-benda yang dapat membuat iritasi pada mata dan wajah</td>
-						<td> Tangan Anda akan kepanasan jika menyentuh benda tersebut dalam keadaan aktif atau menyala</td>
-						<td> bahaya yang berasal dari benda yang mudah meledak. Jauhkan benda tersebut dari api</td>
-						<td></td>
-						<td>17421875131.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>7</td>
-						<td> K3LH Adalah Hal Penting dalam Pembangunan Usaha Atau Industri K3LH merupakan hal penting dalam membangun industri. Pertumbuhan dan pembangunan industri banyak menimbulkan masalah terhadap manusia di setiap negara. Contohnya adalah kecelakaan kerja, bermacam penyakit akibat kerja, dan dampak lingkungan dari adanya industri. Maka dari itu Pemerintah Indonesia mengeluarkan Undang &ndash; undang tentang K3LH yaitu&hellip;.</td>
-						<td>1</td>
-						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1960 Tentang Keselamatan Kerja</td>
-						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1970 Tentang Keselamatan Kerja</td>
-						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1980 Tentang Keselamatan Kerja</td>
-						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1990 Tentang Keselamatan Kerja</td>
-						<td> Undang-Undang Republik Indonesia Nomor 1 Tahun 1950 Tentang Keselamatan Kerja</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>8</td>
-						<td> Dalam melakukan perakitan komputer kita harus memperhatikan kesehatan, keselamatan dan lingkungan hidup disekitar kita. Dalam hal ini yang harus kita perhatikan adalah&hellip;.Kecuali..</td>
-						<td>1</td>
-						<td> Kesiapan mental dan skill</td>
-						<td> Alat-alat yang membantu dalam pengerjaanya</td>
-						<td> Kondisi ruangan yang dingin dan nyaman</td>
-						<td> Alal bantu yang mudah digunakan</td>
-						<td> Instalasi listrik yang menunjang</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>9</td>
-						<td> Agar tidak terjadinya kesalahan yang tidak diinginkan. Untuk itu kita harus membekali diri kita dengan K3LH dan pengetahuan tentang perakitan komputer. Salah satu contoh penggunaan K3LH Seperti dalam perakitan komputer adalah..</td>
-						<td>1</td>
-						<td> Melengkapi diri dengan pakaian tebal dan nyaman</td>
-						<td> Menjauhkan dari keringat, agar tidak terjatuh pada alatnya (korsleting)</td>
-						<td> Melakukan perawatan komputer melalui scan alat.</td>
-						<td> Tool yang membuat perakitan komputer menjadi otomatis</td>
-						<td> Ruangan yang ber ac dengan dingin dibawah 0 derajat celcius</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>10</td>
-						<td> Bahaya adalah suatu perilaku atau kondisi/keadaan yang dapat merugikan kita berupa cidera, kerusakan, dan kerugian yang kita alami. Bahaya yang dapat terjadi pada saat merakit komputer adalah &hellip;.</td>
-						<td>1</td>
-						<td> Komputer Meledak</td>
-						<td> Tersengat listrik</td>
-						<td> Tergores Casing Komputer</td>
-						<td> Tangan terluka oleh obeng</td>
-						<td> Gelombang panas dari Power Supplay</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>11</td>
-						<td> Berikut yang bukan tahapan pertolongan pertama dan penanganan darurat  yang dapat dilakukan untuk meminimalisir risiko bahaya pada korban tersengat listrik adalah&hellip;.</td>
-						<td>1</td>
-						<td> Pindahkan pisahkan korban dari aliran listrik dengan menggunakan non-conductor material seperti kayu kering, kain kering atau tali kering</td>
-						<td> Membantu korban sampai ia terbebas dari sengatan listrik</td>
-						<td> Periksa kondisi korban, berikan CPR (Cardiopul monary resuscitation)&ndash; pernafasan buatan sampai bantuan medis datang</td>
-						<td> Bawa korban ke perawatan medis terdekat, dengan tetap mempertahankan posisi terbaik</td>
-						<td> Pindahkan korban dengan hati-hati dan pakailah alas yang kering</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>12</td>
-						<td> Beberapa hal yang dapat dilakukan agar terhindar dari risiko bekerja dengan komputer adalah&hellip;</td>
-						<td>1</td>
-						<td> Posisi tubuh saat bekerja harus nyaman dalam menggunakan komputer.</td>
-						<td> Posisi punggung yang tidak baik adalah yang miring, miring ke kanan dan ke kiri, membungkuk dan terlalu bersandar terlalu miring ke belakang</td>
-						<td> Posisi pundak yang tidak terlalu terangkat dan tidak terlalu ke bawah</td>
-						<td> Posisi lengan yang baik adalah apabila nyaman dapat mengetik dan menggunakan mouse dengan rilek</td>
-						<td> Adapun posisi lengan yang baik bila tangan berada di samping badan dan siku membentuk sudut tidak kurang dari 40 derajat</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>13</td>
-						<td> Pengaturan monitor jika menggunakan monitor CRT, maka sebaiknya tambahkan layar anti radiasi (screen filter), karena intensitas cahaya dan radiasi yang dipancarkan cukup tinggi sehingga dapat menyebabkan gangguan pada mata. Berikut penggunaan monitor yang baik untuk mengurangi keluhan mata adalah&hellip;</td>
-						<td>1</td>
-						<td> Sesekali alihkan pandangan ke objek lain selain monitor untuk relaksasi mata</td>
-						<td> sesekali mengedipkan mata untuk menjaga mata agar mata tidak kering</td>
-						<td> Aturlah cahaya monitor agar  tidak terlalu terang atau terlalu gelap</td>
-						<td> Letakkan monitor sejajar dengan garis horizontal dahi, agar pandangan tidak menengadah atau menunduk</td>
-						<td> Letakkan monitor sedemikian rupa di ruangan yang tidak ada cahaya yang memantul dengan layar monitor</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>14</td>
-						<td> Mengatur letak kabel komputer harus diperhatikan supaya kita terhindar dari kecelakaan kerja, Hal-hal yang harus diperhatikan dalam mengatur letak kabel komputer salah satunya adalah&hellip;</td>
-						<td>1</td>
-						<td> Kabel komputer tidak boleh terkena air karena dapat menyebabkan konsleting</td>
-						<td> Korsleting ini dapat mengakibatkan hubungan arus pendek yang dapat menyebabkan kebakaran komputer</td>
-						<td> Usahakan agar kabel komputer tidak menutupi bagian bagian penting komputer yang bergerak, seperti kipas pendingin prosesor pada CPU</td>
-						<td> Aturlah kabel komputer agar tersusun secara rapi</td>
-						<td> Usahakan agar kabel komputer tidak menutupi bagian penting komputer.</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>15</td>
-						<td> Dalam prinsip kerja komputer sebuah perangkat komputer hanya akan bekerja  bila menerima perintah-perintah yang dikemas dalam program. Dimana perintah tersebut akan diolah dan diproses oleh komputer di bagian&hellip;</td>
-						<td>1</td>
-						<td> CPU</td>
-						<td> RAM</td>
-						<td> ROM</td>
-						<td> Mainboard</td>
-						<td> Memory</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>16</td>
-						<td> Input unit merupakan bagian dari perangkat keras komputer yang berfungsi sebagai alat untuk memasukkan data dan lain sebagainya kedalam komputer. Beberapa contoh perangkat ini adalah&hellip;</td>
-						<td>1</td>
-						<td> Keyboard, ram, mouse</td>
-						<td> Mainboard, mouse, prosesor</td>
-						<td> Mouse, Keyboard, Scanner</td>
-						<td> Scanner, Mouse, Mainboard</td>
-						<td> Speaker, Mouse, Keyboard</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>17</td>
-						<td> Processing unit ini disebut juga CPU (Central Processing Unit) yang merupakan jantung  dari komputer. Melakukan pekerjaan utama seperti proses, perhitungan, logika, kontrol,  pengaturan hubungan kinerja antar komponen, serta mengalokasikan tempat  penyimpanan sementara maupun permanen. Secara umum 3 bagian dari CPU adalah&hellip;.</td>
-						<td>1</td>
-						<td> ALU, CU, Main Memory</td>
-						<td> ALU, CI, Mainboard</td>
-						<td> CI, CU, Mainboard</td>
-						<td> CU, CI, Main Memory</td>
-						<td> ALU, CI, Main Memory</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>18</td>
-						<td> Main memory ini merupakan tempat atau media yang digunakan untuk menyimpan data yang akan atau yang sedang diolah oleh sistem komputer. Main  memori dibagi atas dua bagian, yaitu..</td>
-						<td>1</td>
-						<td> Memory, ROM</td>
-						<td> RAM, ROM</td>
-						<td> RAM, Menory</td>
-						<td> RAM, Hardisk</td>
-						<td> RAM, SSD</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>19</td>
-						<td> Alat ini merupakan perangkat keras yang berfungsi untuk menyajikan hasil output dari proses  yang sedang bekerja pada komputer. Beberapa contoh dari peralatan output antara lain adalah&hellip;.</td>
-						<td>1</td>
-						<td> Keyboard, ram, mouse</td>
-						<td> Mainboard, mouse, prosesor</td>
-						<td> Mouse, Keyboard, Scanner</td>
-						<td> Scanner, Mouse, Mainboard</td>
-						<td> Speaker, Monitor, Printer</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>20</td>
-						<td> Perhatikan gambar dibawah ini!Pada gambar dibawah ini adalah perangkat keras yang digunakan untuk menyimpan data pada komputer. Menggunakan port apakah perangkat tersebut? </td>
-						<td>1</td>
-						<td> SATA</td>
-						<td> IDE</td>
-						<td> PCI</td>
-						<td> PS2</td>
-						<td> USB</td>
-						<td></td>
-						<td>174218751316.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>21</td>
-						<td> Perhatikan gambar dibawah ini!Pada gambar dibawah ini port yang dilingkari dinamakan port&hellip;</td>
-						<td>1</td>
-						<td> SATA</td>
-						<td> IDE</td>
-						<td> PCI</td>
-						<td> PS2</td>
-						<td> USB</td>
-						<td></td>
-						<td>174218751314.png146240591440000</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>22</td>
-						<td> Perhatkan gambar dibawah ini! Pada gambar dibawah ini, pemberian arus listrik paling tepat menggunakan jenis port yang mana?</td>
-						<td>1</td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td> </td>
-						<td></td>
-						<td>174218751311.png</td>
-						<td>17421875136.png</td>
-						<td>17421875132.png</td>
-						<td>174218751317.png</td>
-						<td>174218751312.png</td>
-						<td>17421875138.png</td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>23</td>
-						<td> Perhatikan gambar Jumper front panel berikut ini!Sebaiknya konektor kabel HDD Led dipasangkan dengan jumper nomor&hellip;.</td>
-						<td>1</td>
-						<td> Jumper 1 dan 3 dengan Merah di jumper 3 dan putih di jumper 1</td>
-						<td> Jumper 1 dan 3 dengan Merah di jumper 1 dan putih di jumper 3</td>
-						<td> Jumper 2 dan 4 dengan Merah di jumper 2 dan putih di jumper 4</td>
-						<td> Jumper 2 dan 4 dengan Merah di jumper 4 dan putih di jumper 2</td>
-						<td> Jumper 5 dan 7 dengan Merah di jumper 5 dan putih di jumper 7</td>
-						<td></td>
-						<td>17421875137.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>24</td>
-						<td> Perhatikan gambar Jumper front panel berikut ini!Sebaiknya konektor kabel Power Led dipasangkan dengan jumper nomor&hellip;.</td>
-						<td>1</td>
-						<td> Jumper 1 dan 3 dengan Hijau di jumper 3 dan putih di jumper 1</td>
-						<td> Jumper 1 dan 3 dengan Hijau di jumper 1 dan putih di jumper 3</td>
-						<td> Jumper 2 dan 4 dengan Hijau di jumper 2 dan putih di jumper 4</td>
-						<td> Jumper 2 dan 4 dengan Hijau di jumper 4 dan putih di jumper 2</td>
-						<td> Jumper 5 dan 7 dengan hijau di jumper 5 dan putih di jumper 7</td>
-						<td></td>
-						<td>17421875137.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>25</td>
-						<td> Perhatikan gambar Jumper front panel berikut ini!Jika Kabel Power LED yang bewarna Hijau di sambungkan ke jumper nomor 1 dan kabel power led putih ke jumper nomor 3 apa yang akan terjadi?</td>
-						<td>1</td>
-						<td> Indikator lampu led hijau (power) tidak menyala</td>
-						<td> Indikator lampu led merah (Hdd) menyala terang</td>
-						<td> Indikator lampu led hijau (power) terjadi korsleting</td>
-						<td> Indikator lampu led merah (hdd) menyala redup</td>
-						<td> Indikator lampu led hijau (power) menyala </td>
-						<td></td>
-						<td>17421875137.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>26</td>
-						<td> Perhatikan gambar mainboard dibawah ini!Bagian yang ditunjukan nomor 4, 3 dan 2 secara berurut adalah&hellip;</td>
-						<td>1</td>
-						<td> PCI, Port Power Suply, Slot RAM</td>
-						<td> Port Sata, Port Power Suply, Slot RAM</td>
-						<td> Port USB, Port Power Suply, Slot RAM</td>
-						<td> Soket RAM, Power Suply, Port IDE</td>
-						<td> Port IDE, Port Power Suply, Slot RAM</td>
-						<td></td>
-						<td>17421875133.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>27</td>
-						<td> Perhatikan gambar mainboard dibawah ini!Bagian yang ditunjukan nomor 11, 1 dan 5 secara berurut adalah&hellip;</td>
-						<td>1</td>
-						<td> Power Prosesor, Bateray CMOS, Port IDE</td>
-						<td> Bateray CMOS, Prosesor, CPU</td>
-						<td> Bateray CMOS, Prosesor, PCI</td>
-						<td> Bateray CMOS, Prosesor, Port PCI</td>
-						<td> Bateray CMOS, Prosesor, Port IDE</td>
-						<td></td>
-						<td>17421875133.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>28</td>
-						<td> Untuk menguji hidup matinya suatu power supply salah satunya dapat dilakukan menggunakan multitester. Cara lain yang paling sederhana adalah&hellip;</td>
-						<td>1</td>
-						<td> Menghubungkan kabel merah dan hitam</td>
-						<td> Menghubungkan kabel hijau dan merah</td>
-						<td> Menghubungkan kabel biru dan merah</td>
-						<td> Menghubungkan kabel kuning dan hitam</td>
-						<td> Menghubungkan kabel hijau dan hitam</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>29</td>
-						<td> Bacalah ilustrasi berikut ini!Parizal sedang menghidupkan PC nya, pada saat booting muncul pesan bahwa seting tanggal dan waktu menjadi default bios. Parizal kemudian masuk ke bios dan seting tanggal, dan menghidupkan ulang PCnya. Setelah PC berjalan normal, Parizal mematikan komputer dan mencabut sumber daya PC tersebut. Keesokan harinya Parizal menyalakan kembali PC nya, dan muncul pesan error tanggal dan waktu persis hari sebelumnya. Dari ilustrasi tersebut, apa yang menyebabkan masalah tersebut?</td>
-						<td>1</td>
-						<td> Kabel power CPU mati</td>
-						<td> CPU tidak mendapatkan arus listrik dari power suply</td>
-						<td> Baterai CMOS habis dayanya</td>
-						<td> Jumper CMOS salah konfigurasi</td>
-						<td> Seting tanggal dan waktu tidak disimpan</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>30</td>
-						<td> Firmware pada sistem komputer yang berfungsi untuk inisialisasi perangkat keras (hardware) saat komputer dihidupkan (booting) dan memberikan layanan (runtime service) untuk menjalankan perangkat keras kepada sistem operasi atau perangkat lunak lain saat komputer hidup adalah&hellip;</td>
-						<td>1</td>
-						<td> ROM</td>
-						<td> RAM</td>
-						<td> EPROM</td>
-						<td> BIOS</td>
-						<td> ALU</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>31</td>
-						<td> Berikut ini adalah yang bukan termasuk dari fungsi BIOS adalah&hellip;</td>
-						<td>1</td>
-						<td> Manajemen Sistem Startup (Startup System)</td>
-						<td> Menjalankan Proses Booting (Boot Process)</td>
-						<td> Mengatur Prioritas Booting (Boot Priority)</td>
-						<td> Manajemen Kesalahan Booting (Boot Failure)</td>
-						<td> Manajemen jaringan hardware</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
-				
-					<tr>
-						<td>32</td>
-						<td> Perhatikan urutan masuk ke BIOS berikut ini!Urutan yang tepat adalah&hellip;</td>
-						<td>1</td>
-						<td> 1,5,3,2,4</td>
-						<td> 1,3,5,4,2</td>
-						<td> 1,2,3,4,5</td>
-						<td> 1,5,2,3,4</td>
-						<td> 1,4,3,2,5</td>
-						<td></td>
-						<td>174218751315.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>33</td>
-						<td> Berikut ini yang bukan perbedaan antara Legacy BIOS dan UEFI adalah&hellip;.</td>
-						<td>1</td>
-						<td> Batasan partisi untuk MBR Legacy hanya mampu 2 Terabyte sedangkan untuk GPT UEFI bisa lebih besar dari 2 Terabyte keatas.</td>
-						<td> MBR Legacy hanya bisa membuat partisi utama 4 saja, sedangkan GPT UEFI bisa lebih sampai 128 partisi utama.</td>
-						<td> Pada MBR Legacy hanya mampu menyimpan 1 bootloader saja, sedangkan untuk GPT UEFI bisa lebih dari satu partisi bootloader</td>
-						<td> Pada MBR Legacy Sektor data tidak menggunakan checksum, sedangkan untuk GPT UEFI sektor data menggunakan checksum CRC32 dan tabel partisi GUID cadangan</td>
-						<td> Pada MBR Legacy tidak mengunakan boot untuk ke sistem, sedangkan untuk GPT UEFI booting lebih banyak pilihannya</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>D</td>
-					</tr>
-				
-					<tr>
-						<td>34</td>
-						<td> Perhatikan urutan dalam merakit komputer berikut ini, Urutan cara merakit komputer yang benar adalah &hellip;.</td>
-						<td>1</td>
-						<td> 2-1-4-3-5-8-6-9-7</td>
-						<td> 2-1-4-8-5-6-9-3-7</td>
-						<td> 2-1-4-3-5-6-8-9-7</td>
-						<td> 2-7-4-3-5-6-8-9-1</td>
-						<td> 7-1-4-3-5-6-8-9-2</td>
-						<td></td>
-						<td>17421875139.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>35</td>
-						<td> Perhatikan gambar dibawah ini!Sebuah PC dapat dipasang lebih dari satu hardisk, misalnya hardisk A dan hardisk B, namun kita menginginkan agar PC ketika booting harus membaca lebih dulu hardisk B, yang harus dilakukan adalah&hellip;.</td>
-						<td>1</td>
-						<td> Mengubah urutan boot pada menu first boot device, kemudian second boot device</td>
-						<td> Dengan menggunakan arah dikeyboard, kita memilih first boot device dan menggantinya dengan hardisk B</td>
-						<td> Mengubah HDD SMART capability menjadi enabled</td>
-						<td> Mengubah NO-execute memory protect menjadi disabled</td>
-						<td> Mengubah urutan hardisk di menu Hard Disk boot priority dengan hardisk B diurutan pertama</td>
-						<td></td>
-						<td>17421875134.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>36</td>
-						<td> Aiman adalah seorang teknisi komputer, dia telah selesai menginstal PC konsumennya dengan OS Windows 7. Setelah beberapa saat Aiman mendapat pesan lewat media sosial dari konsumen, bahwa komputer yang diinstal masih bermasalah, yaitu:1. PC tidak bisa membaca Flasdisk, padahal konsumen tersebut telah mencoba lebih dari 2 flashdisk, namun tetap tidak membaca flashdisk tersebut.2. Tampilan pada system properties di  menu device tampak seperti gambar dibawah ini.Pada kasus diatas yang sebaiknya dilakukan aiman adalah&hellip;.</td>
-						<td>1</td>
-						<td> Menginstal kembali OS windows 7 dengan kemungkinan salah konfigurasi</td>
-						<td> Menginstal anti virus karena kemungkinan windows 7 tersebut diinfeksi virus</td>
-						<td> Menginstal driver USB karena di device system properties menunjukan tanda seru bewarna kuning</td>
-						<td> Menghapus driver yang menggangu USB karena di device system properties menunjukan tanda seru bewarna kuning</td>
-						<td> Memeriksa kembali master OS Windows 7 yang dianggap bermasalah.</td>
-						<td></td>
-						<td>174218751318.jpeg</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>37</td>
-						<td> Perhatikan gambar berikut ini. Jika kita ingin hardisk tersebut dipartisi menjadi 2 bagian yaitu bagian satu 10GB dan bagian 2 sisanya, langkah yang harus dilakukan adalah&hellip;</td>
-						<td>1</td>
-						<td> Klik new lalu isikan pada size 10240 MB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
-						<td> Klik new lalu isikan pada size 10240 GB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
-						<td> Klik format lalu isikan pada size 10240 MB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
-						<td> Klik format lalu isikan pada size 10240 GB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
-						<td> Klik Delete lalu isikan pada size 10240 MB kemudian klik apply dan lakukan hal yang sama pada sisa hardisk namun pada size tidak diubah. </td>
-						<td></td>
-						<td>174218751313.png</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>A</td>
-					</tr>
-				
-					<tr>
-						<td>38</td>
-						<td> Suatu sekolah terdapat jaringan komputer yaitu sebuah laboratorium komputer sejumlah 20 PC dan 1 Switch, kemudian ruang TU terdapat 5 PC dan 1 switch dan ruang guru 5 PC dengan 1 switch. Dari semua PC mengarah ke Switch dan dari switch mengarah ke 1 router. Topologi yang digunakan dapat disimpulkan yaitu&hellip;.</td>
-						<td>1</td>
-						<td> Topologi mesh</td>
-						<td> Topologi BUS</td>
-						<td> Topologi Star</td>
-						<td> Topologi Ring</td>
-						<td> Topologi Tree</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>C</td>
-					</tr>
-				
-					<tr>
-						<td>39</td>
-						<td> Sebuah lembaga yang mempunyai 50 PC akan dibuat jaringan komputer, sehingga antar PC dapat saling terkoneksi. Untuk menghubungkan antar PC selain hardware jaringan, dibutuhkan pegalamatan IP untuk tiap PC. IP yang akan digunakan adalah kelas C. IP Network yang tepat berdasarkan situasi diatas adalah&hellip;</td>
-						<td>1</td>
-						<td> 192.168.1.0/25</td>
-						<td> 192.168.1.0/26</td>
-						<td> 192.168.1.64/26</td>
-						<td> 192.168.1.64/27</td>
-						<td> 192.168.1.0/27</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>B</td>
-					</tr>
-				
-					<tr>
-						<td>40</td>
-						<td> Sebuah perusahaan yang terdapat 8 divisi akan dibuat  jaringan komputer. Tiap divisi terdapat 20 PC dan 1 router. Perusahaan menginginkan setiap divisi adalah jaringan komputer sendiri namun tetap terhubung ke jaringan divisi lainnya melalui router. IP yang ditentukan adalah 192.168.2.0/27. IP yang tepat pada salah satu jaringan yang dibuat adalah&hellip;.</td>
-						<td>1</td>
-						<td> Pada jaringan ke-2,  IP: 192.168.2.34- 192.168.2.50 dengan IP port Router 192.168.2.33</td>
-						<td> Pada jaringan ke-3, IP: 192.168.2.65- 192.168.2.84 dengan IP port Router 192.168.2.64</td>
-						<td> Pada jaringan ke-5, IP: 192.168.2.129- 192.168.2.145 dengan IP port outer 192.168.2.128</td>
-						<td> Pada jaringan ke-6,  IP: 192.168.2.162- 192.168.2.182 dengan IP port Router 192.168.2.161</td>
-						<td> Pada jaringan ke-7, IP: 192.168.2.193- 192.168.2.222 dengan IP Port Router 192.168.2.223</td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td></td>
-						<td>E</td>
-					</tr>
+[
+    {
+        "answer": "IF bersarang",
+        "question": "Bentuk dari suatu statment IF berada di dalam lingkungan statmean IF yang lainya,disebut IF  dalam kondis"
+    },
+    {
+        "answer": "Variabel",
+        "question": "Suatu program terpisah dalam blok sendiri yang berfungsi sebagai sub program (program  bagian), disebut"
+    },
+    {
+        "answer": "Writeln",
+        "question": "Perintah yang digunakan untuk menampilkan atau mencetak dilayar monitor lalu pindah  baris kebawah adalah"
+    },
+    {
+        "answer": "Program_1",
+        "question": "Berikut ini adalah penulisan identifier yang benar dalam pemogramn pascal adalah ..."
+    },
+    {
+        "answer": "Write",
+        "question": "Perintah yang digunakan untuk menampilkan atau cetak dilayar monitor tanpa pindah baris  adalah ."
+    },
+    {
+        "answer": "Deklarasi konstanta",
+        "question": "Deklarasi yang digunakan untuk mengidentifikasikan data yang nilainya sudah ditentukan  dan pasti, tidak dapat dirubah dalam program disebut deklaras"
+    },
+    {
+        "answer": "Variabel",
+        "question": "Suatu indentifier non standar yang nilainya tidak tetap atau nilainya merupakan hasil dari suatu proses, disebut"
+    },
+    {
+        "answer": "Integer",
+        "question": "Tipe bilangan bulat dalam bahasa pascal dikenal sebagi"
+    },
+    {
+        "answer": "Array",
+        "question": "Tipe data terstruktur yang terdiri dari sejumlah komponen, komponen yang mempunyai tipe sama, disebut tipe data"
+    },
+    {
+        "answer": "Writeln",
+        "question": "Prosedur yang digunakan untuk membersihkan layar saat program dijalankan adalah"
+    },
+    {
+        "answer": "End;",
+        "question": "Berikut ini perintah untuk menutup program dalam pascal adalah"
+    },
+    {
+        "answer": "nilai_mahasiswa",
+        "question": "Berikut ini pemberian nama variabel yang benar adalah"
+    },
+    {
+        "answer": "Looping",
+        "question": "Istilah \u201dperulangan\u201c dalam pemograman pascal dikenal dengan istilah"
+    },
+    {
+        "answer": "*",
+        "question": "Berikut ini yang termasuk operator aritmatika adalah"
+    },
+    {
+        "answer": "Character",
+        "question": "Tipe data yang cocok untuk menyimpan data nama siswa adalah"
+    },
+    {
+        "answer": "Flowchart",
+        "question": "Menggambarkan program secara logika merupakan fungsi dar"
+    },
+    {
+        "answer": "NamaGuru",
+        "question": "Berikut ini nama variabel yang benar adalah"
+    },
+    {
+        "answer": "Deklarasi proses",
+        "question": "Di bawah ini yang tidak termasuk deklarasi dalam pascal adalah"
+    },
+    {
+        "answer": "Real",
+        "question": "Bilangan yang mengadung pecahan paling sedikit harus ada satu digit sebelum dan sesudah titik desimal termasuk dalm tipe data"
+    },
+    {
+        "answer": "Array Multi-Dimensi",
+        "question": "Berikut ini yang bukan tipe Array adalah"
+    },
+    {
+        "answer": "CRTL+F9",
+        "question": "Dalam pemograman untuk melihat hasil dari program yang di kerjakan dapat menekan kombinasi tombol keyboard"
+    },
+    {
+        "answer": "a=10, b=10",
+        "question": "Apabila a = 5, b = 10, maka jika di berikan instruksi a = b; b = a akan mengakibatkan"
+    },
+    {
+        "answer": "P tetap",
+        "question": "Instruksi P = Q akan mengakibatkan nilai P = nilai Q, dan nilai Q menjadi"
+    },
+    {
+        "answer": "Membuat Algoritma",
+        "question": "Dalam menyusun suatu program,langkah pertama yang harus di lakkukan adalah"
+    },
+    {
+        "answer": "15 dan 15",
+        "question": "Di berikan algoritma P = 10; P = P + 5; Q = P. Nilai P dan Q masing-masing adalah"
+    },
+    {
+        "answer": "Write",
+        "question": "Perintah dasar dalam program passcal adalah"
+    },
+    {
+        "answer": "Char",
+        "question": "Tipe data pascal untuk karakter adalah"
+    },
+    {
+        "answer": "Unit sytem",
+        "question": "Berikut ini yang merupakan kepanjangan dari USES adalah"
+    },
+    {
+        "answer": "Boolean",
+        "question": "Tipe data bahasa pascal untuk TRUE FALSE adalah"
+    },
+    {
+        "answer": "Algoritma",
+        "question": "Sebuah prosedur langkah demi langkah yang pasti untuk menyelesaikan sebuah masalah di sebut"
+    },
+    {
+        "answer": "Ungu",
+        "question": "Diberikan algoritma : Apabila warna merah maka jadi hijau. Apabila warna hijau maka jadi putih, selain warna merah dan hijau maka jadi ungu. Jika kondisi input warna adalah hitam, maka warna akan menjadi"
+    },
+    {
+        "answer": "1971",
+        "question": "Pada tahun berapakah terbentuknya pemograman pascal"
+    },
+    {
+        "answer": "Uses crt;",
+        "question": "Berikut ini struktur pertama dalam pascal adalah"
+    },
+    {
+        "answer": "10 atau 15",
+        "question": "Diketahui bahwa kantong P kosong. Kantong Q berissi 10 buah kelereng dan kantong R berisi 15 kelereng. Apabila yang terbawa hanya sebuah kantong dan di katakan BUKAN kantong P yang terbawa, Maka jumlah kelereng yang terbawa adalah"
+    },
+    {
+        "answer": "Kondrazuse",
+        "question": "Siapkah yang menemukan program pascal"
+    },
+    {
+        "answer": "Uses crt;",
+        "question": "Struktur bahasa pemograman pascal paling pertama adalah"
+    },
+    {
+        "answer": "Sebelum pembuatan program",
+        "question": "Pada pembuatan program komputer, algoritma dibuat"
+    },
+    {
+        "answer": "Bahasa pemograman",
+        "question": "Berikut ini yang digunakan untuk penulisan algoritma Pseudocode adalah"
+    },
+    {
+        "answer": "3",
+        "question": "Berapakah kode yang digunakan untuk membuat tulisan berwarna \u201cCYAN\u201d"
+    },
+    {
+        "question": "Berikut ini yang merupakan tahapan dalam menyelesaikan suatu masalah adalah",
+        "answer": "Masalah-Model-Algoritma-Program-Eksekusi-hasil"
+    },
 
 
-				
-		</table>
-	
+    {
+        "answer": "Warna cerah dan tipografi yang kreatif",
+        "question": "Seorang desainer diminta membuat poster untuk acara musik. Elemen apa yang paling penting untuk menarik perhatian audiens muda?"
+    },
+    {
+        "answer": "Hijau dan coklat",
+        "question": "Sebuah perusahaan ingin membuat logo yang mencerminkan nilai keberlanjutan dan lingkungan. Manakah kombinasi warna yang paling sesuai?"
+    },
+    {
+        "answer": "Menciptakan keseimbangan dan fokus visual",
+        "question": "Seorang desainer menggunakan prinsip \"rule of thirds\" dalam komposisi desain. Apa tujuan utama dari prinsip ini?"
+    },
+    {
+        "answer": "Meningkatkan keterbacaan dan fokus pada elemen penting",
+        "question": "Dalam desain brosur, apa fungsi utama dari whitespace (ruang kosong)?"
+    },
+    {
+        "answer": "Gradien dan shading",
+        "question": "Seorang desainer ingin membuat ilustrasi yang terlihat realistis. Teknik apa yang paling sesuai?"
+    },
+    {
+        "answer": "Komposisi yang tidak seimbang dan warna monoton",
+        "question": "Sebuah desain poster dinilai kurang menarik. Manakah faktor yang paling mungkin menjadi penyebabnya?"
+    },
+    {
+        "answer": "Penggunaan warna yang tidak konsisten dan tipografi yang tidak sesuai",
+        "question": "Seorang klien mengeluh bahwa desain logo terlihat tidak profesional. Apa yang mungkin menjadi penyebabnya?"
+    },
+    {
+        "answer": "Tata letak yang tidak intuitif dan hierarki visual yang buruk",
+        "question": "Sebuah desain website dinilai sulit dinavigasi. Apa yang mungkin menjadi penyebabnya?"
+    },
+    {
+        "answer": "Font serif memberikan kesan elegan dan formal",
+        "question": "Seorang desainer menggunakan font serif untuk desain undangan pernikahan. Apa alasan yang paling tepat?"
+    },
+    {
+        "answer": "Data yang tidak jelas dan visualisasi yang membingungkan",
+        "question": "Sebuah desain infografis dinilai kurang informatif. Apa yang mungkin menjadi penyebabnya?"
+    },
+    {
+        "answer": "Menggunakan bentuk geometris sederhana dan warna modern",
+        "question": "Seorang desainer diminta membuat logo untuk startup teknologi. Manakah pendekatan yang paling sesuai?"
+    },
+    {
+        "answer": "Gambar produk, teks promosi, dan call to action",
+        "question": "Sebuah perusahaan ingin membuat banner untuk promosi produk baru. Apa elemen yang paling penting untuk disertakan?"
+    },
+    {
+        "answer": "Menggunakan kombinasi warna yang kontras dan tidak bergantung pada warna saja",
+        "question": "Seorang desainer ingin membuat desain yang ramah bagi pengguna buta warna. Apa yang harus diperhatikan?"
+    },
+    {
+        "answer": "Menambahkan ilustrasi kreatif dan informasi produk yang jelas",
+        "question": "Sebuah desain kemasan produk dinilai kurang menarik. Apa yang bisa dilakukan untuk meningkatkan daya tariknya?"
+    },
+    {
+        "answer": "Ukuran gambar yang sesuai dan konten yang menarik perhatian",
+        "question": "Seorang desainer diminta membuat desain yang cocok untuk media sosial. Apa yang harus diperhatikan?"
+    },
+    {
+        "answer": "Raster terdiri dari piksel, sedangkan vektor terdiri dari garis dan kurva matematis",
+        "question": "Apa perbedaan utama antara raster dan vektor dalam desain grafis?"
+    },
+    {
+        "answer": "PDF dengan pengaturan high resolution",
+        "question": "Seorang desainer ingin membuat desain yang cocok untuk dicetak. Format file apa yang paling sesuai?"
+    },
+    {
+        "answer": "Membantu menciptakan tata letak yang terstruktur dan konsisten",
+        "question": "Apa fungsi utama dari grid system dalam desain layout?"
+    },
+    {
+        "answer": "Menciptakan fokus visual dan menarik perhatian",
+        "question": "Seorang desainer menggunakan prinsip kontras dalam desain. Apa tujuan utama dari prinsip ini?"
+    },
+    {
+        "answer": ". Pengaturan ukuran, berat, dan gaya teks untuk menciptakan struktur visual",
+        "question": "Apa yang dimaksud dengan \"typography hierarchy\" dalam desain grafis?"
+    },
+    {
+        "answer": "Menggunakan elemen yang sederhana dan ruang kosong yang cukup",
+        "question": "Seorang desainer ingin membuat desain yang terlihat minimalis. Apa yang harus dilakukan?"
+    },
+    {
+        "answer": "Studi tentang bagaimana warna berinteraksi dan memengaruhi persepsi",
+        "question": "Apa yang dimaksud dengan \"color theory\" dalam desain grafis?"
+    },
+    {
+        "answer": "Warna netral dengan aksen warna cerah",
+        "question": "Seorang desainer ingin membuat desain yang terlihat modern. Manakah kombinasi warna yang paling sesuai?"
+    },
+    {
+        "answer": "Menunjukkan bagaimana desain akan terlihat dalam konteks nyata",
+        "question": "Apa fungsi utama dari mockup dalam proses desain?"
+    },
+    {
+        "answer": "Menggunakan ukuran teks yang besar dan kontras warna yang tinggi",
+        "question": "Seorang desainer ingin membuat desain yang ramah bagi pengguna dengan keterbatasan visual. Apa yang harus diperhatikan?"
+    },
+    {
+        "answer": "Representasi visual dari nilai dan pesan sebuah brand",
+        "question": "Apa yang dimaksud dengan \"brand identity\" dalam desain grafis?"
+    },
+    {
+        "answer": "Warna muted dan tipografi klasik",
+        "question": "Seorang desainer ingin membuat desain yang terlihat vintage. Manakah elemen yang paling sesuai?"
+    },
+    {
+        "answer": "Area tambahan di luar batas desain untuk memastikan tidak ada bagian yang terpotong saat dicetak",
+        "question": "Apa yang dimaksud dengan \"bleed\" dalam desain cetak?"
+    },
+    {
+        "answer": "Menggunakan garis diagonal dan pergerakan visual",
+        "question": "Seorang desainer ingin membuat desain yang terlihat dinamis. Apa yang bisa dilakukan?"
+    },
+    {
+        "answer": "Penyesuaian jarak antara huruf",
+        "question": "Apa yang dimaksud dengan \"kerning\" dalam tipografi?"
+    },
+    {
+        "answer": "freehand",
+        "question": "Di dalam desain grafis menggunakan CorelDraw ketika akan menggambar suatu kurva, tool yang dipergunakan adalah"
+    },
+    {
+        "answer": "Ctrl",
+        "question": "Di dalam desain membuat logo di CorelDraw, untuk membuat objek (lingkaran, ellips, laying-layang, polygon, dan lain-lain) agar simetris pada saat drag, anda harus menekan tombol"
+    },
+    {
+        "answer": "Vektor",
+        "question": "Gambar yang disusun oleh sekumpulan garis, kurva atau bidang tertentu yang menggunakan serangkaian perintah yang didefinisikan dengan persamaan sistematis disebut"
+    },
+    {
+        "answer": "extrude",
+        "question": "Perhatikan perubahan gambar dibawah ini. Perubahan gambar tersebut dapat dibuat dengan menggunakan efek \u2026\u2026 di CorelDraw."
+    },
+    {
+        "answer": "distort",
+        "question": "Perhatikan perubahan gambar dibawah ini. Perubahan gambar tersebut dapat dibuat dengan menggunakan efek \u2026\u2026 di CorelDraw."
+    },
+    {
+        "answer": "Biru",
+        "question": "Perhatikan gambar beriku ini. Jika kita menggunakan fungsi shaping weld, dan objek 2 lebih dulu dipilih dari pada objek pertama, jika objek 1 berwarna kuning, dan objek 2 berwarna biru, maka hasil objek baru akan berwarna"
+    },
+    {
+        "answer": "2",
+        "question": "Perhatikan gambar berikut. Teknik ini melakukan Pemotongan dengan cara memotong objek dengan menggunakan objek lain. Teknik ini berfungsi untuk memotong objek dengan objek lain yang bersinggungan. Hasilnya objek pertama yang diseleksi akan memotong objek kedua yang diseleksi. Dari gambar berikut yang sesuai dengan fungsi teknik tersebut adalah"
+    },
+    {
+        "answer": "nil value.",
+        "question": "Perhatikan gambar berikut. Dari gambar tersebut yang paling dominan dalam membuat logo tersebut menggunakan tool"
+    },
+    {
+        "answer": "Tipografi",
+        "question": "Seni ini merupakan seni dalam merancang, menyusun dan memodifikasi huruf. Seni ini melibatkan beberapa pengaturan pada huruf seperti ukuran huruf, jenis huruf, tracking (jarak antar huruf secara umum), kerning (jarak antar dua huruf yang spesifik), dan leading (jarak antar baris). Menurut anda apa yang dimaksud dari pernyataan itu"
+    },
+    {
+        "answer": "Ilustrasi",
+        "question": "Dramatisasi pesan yang menonjolkan suatu merk atau semboyan dan mendukung judul iklan dapat berupa gambar, foto, maupun garfis lainnya. bentuknya merupakan penjelasan yang dapat menerjemahkan isi iklan secara menyelururh, mampu menarik perhatian sekaligus menangkap pandangan secara sepintas. Menurut anda unsure tata letak apa yang dimaksud dari pernyataan itu\u2026"
+    },
+    {
+        "answer": "1, 2, 5",
+        "question": "Pahamilah pernyataan berikut ini: 1. Membuat bagan atau grafik. 2. Membuat pola atau ritme dengan membuat banyak baris. 3. Membuat penekanan langsung ke mata pembaca (membuat garis diagonal) 4. Mensugesti emosi. 5. Menarik perhatian. 6. Merangsang minat pembaca terhadap keseluruhan pesan. 7. Memberikan ekplanasi atas pernyataan. 8. Menonjolkan keistimewaan daripada produk. Pernyataan yang benar dari kegunaan garis adalah\u2026"
+    },
+    {
+        "answer": "5, 6, 7",
+        "question": "Pahamilah pernyataan berikut ini : 1. Membuat bagan atau grafik. 2. Membuat pola atau ritme dengan membuat banyak baris. 3. Membuat penekanan langsung ke mata pembaca (membuat garis diagonal). 4. Mensugesti emosi. 5. Menarik perhatian. 6. Merangsang minat pembaca terhadap keseluruhan pesan. 7. Memberikan ekplanasi atas pernyataan. 8. Menonjolkan keistimewaan daripada produk. Pernyataan yang benar dari kegunaan ilustrasi adalah \u2026."
+    },
+    {
+        "answer": "CMYK & RGB itu sama-sama warna primer.",
+        "question": "Warna CMYK dan RGB merupakan dua komponen penting dalam teori warna. Dua komponen ini menjadi dasar dalam membentuk warna \u2013 warna lain. Sebelum membuat suatu desain, desainer harus menentukan terlebih dahulu desain tersebut akan dicetak atau hanya dipresentasikan melalui media monitor. Karena warna CMYK dan RGB akan menghasilkan hasil yang berbeda ketika ditampilkan dalam bentuk visual di monitor dan ketika dicetak. Persamaan dari warna CMYK dan RGB tersebut adalah\u2026"
+    },
+    {
+        "answer": "RGB merupakan warna yang digunakan pada monitor",
+        "question": "Warna CMYK dan RGB merupakan dua komponen penting dalam teori warna. Dua komponen ini menjadi dasar dalam membentuk warna \u2013 warna lain. Sebelum membuat suatu desain, desainer harus menentukan terlebih dahulu desain tersebut akan dicetak atau hanya dipresentasikan melalui media monitor. Karena warna CMYK dan RGB akan menghasilkan hasil yang berbeda ketika ditampilkan dalam bentuk visual di monitor dan ketika dicetak. Perbedaan yang utama dari warna CMYK dan RGB tersebut adalah\u2026"
+    },
+    {
+        "answer": "Proporsi",
+        "question": "Upaya pengaturan yang berkenaan dengan ukuran antara bagian satu dengan bagian yang berhubungan dengan besar kecil, luas, sempit, panjang pendek, atau tinggi rendah adalah persoalan prinsip selera masing-masing seorang desainer. Dalam Seni Rupa banyak prinsip yang digunakan untuk mempertimbangkan perbandingan bidang kertas atau kanvas dengan objek yang digambar atau di lukis. Prinsip perbandingan yang lebih menekankan pada varisasi atau keragaman ukuran unsur yang satu dengan unsur yang lain dalam satu kesatuan yang utuh. Menurut anda prinsip di atas merupakan prinsip tata letak\u2026."
+    },
+    {
+        "answer": "Irama",
+        "question": "Prinsip ini merupakan sebuah pola pengulangan oleh sebuah unsur yang berbeda dan pergerakan secara berurutan yang berkelanjutan. Prinsip ini sesungguhnya ialah hubungan perulangan dan juga bentuk unsur rupa. Penempatan dalam sebuah desain keluaran atau layout secara berulang memberikan hasil yang halus, santai, dan tenang. Menurut anda prinsip di atas merupakan prinsip tata letak"
+    },
+    {
+        "answer": "1, 2, 3",
+        "question": "Bacalah dan pahamilah hal-hal berikut ini : 1. Sudah digunakan menjadi standar gambar di internet. 2. Memudahkan dalam mengunduh foto. 3. Mendukung animasi gambar. 4. Bersifat tidak pecah-pecah. 5. Menggunakan kompresi tidak menghilangkan data. 6. Jenis data yang bisa dikirim dan dilihat secara bebas. Dari hal-hal tersebut yang merupakan kelebihan dari format gambar GIF adalah\u2026."
+    },
+    {
+        "answer": "1, 2, 6",
+        "question": "Bacalah dan pahamilah hal-hal berikut ini : 1. Sudah digunakan menjadi standar gambar di internet. 2. Memudahkan dalam mengunduh foto. 3. Mendukung animasi gambar. 4. Bersifat tidak pecah-pecah. 5. Menggunakan kompresi tidak menghilangkan data. 6. Jenis data yang bisa dikirim dan dilihat secara bebas. Dari hal-hal tersebut yang merupakan kelebihan dari format gambar JPG adalah.."
+    },
+    {
+        "answer": "BMP",
+        "question": "Format file ini merupakan format grafis yang fleksibel untuk platform Windows sehingga dapat dibaca oleh program grafis manapun. Format ini mampu menyimpan informasi dengan kualitas tingkat 1 bit samapi 24 bit. Kelemahan format file ini adalah tidak mampu menyimpan alpha channel serta ada kendala dalam pertukaran platform. Untuk membuat sebuah objek sebagai desktop wallpaper dapat menggunakan dengan format file ini. Anda dapat mengkompres format file ini dengan kompresi RLE. Format file ini mampu menyimpan gambar dalam mode warna RGB, Grayscale, Indexed Color, dan Bitmap. Menurut anda jenis format gambar apakah yang sesuai dengan ilustrasi diatas?"
+    },
+    {
+        "answer": "II, III, VI",
+        "question": "Bacalah pernyataan berikut dengan cermat! I. Terdiri dari berjuta titik-titik. II. Jika diperbesar tidak akan pecah. III. Menghasilkan bobot file yang kecil. IV. Jika diperbesar gambar akan pecah. V. Terdiri dari garis bezier curves yang membentuk objek. VI. Kualitas gambar tergantung pada banyaknya pixel. Pernyataan yang salah tentang gambar vector adalah..."
+    },
+    {
+        "answer": "Alat yang digunakan untuk membentuk beragam garis lurus atau garis yang tidak beraturan",
+        "question": "Perhatikan gambar berikut! Menurut anda Freehand tool yaitu"
+    },
+    {
+        "answer": "Intersect",
+        "question": "Teknik shaping adalah teknik yang sangat dibutuhkan dalam pemotongan ataupun penggabungan beberapa object yang dapat kita lakukan dalam CorelDraw. Teknik Shaping sangat berguna bila anda akan memotong ataupun menggabungkan beberapa object sehingga pemotongan atau penggabungan object akan lebih mudah selain itu juga terlihat rapi. ada beberapa teknik shaping yang harus anda tahu yakni Weld , Trim , Intersect , Simplify , Front minus back , Back minus front , dan Create a new object that surrounds the selected objects. Perhatikan gambar dibawah ini. Dari gambar tersebut teknik shaping yang digunakan adalah"
+    },
+    {
+        "answer": "Trim",
+        "question": "Teknik-teknik shaping adalah teknik yang sangat dibutuhkan dalam pemotongan ataupun penggabungan beberapa object yang dapat kita lakukan dalam CorelDraw. Teknik Shaping sangat berguna bila anda akan memotong ataupun menggabungkan beberapa object sehingga pemotongan atau penggabungan object akan lebih mudah selain itu juga terlihat rapi. ada beberapa teknik shaping yang harus anda tahu yakni Weld , Trim , Intersect , Simplify , Front minus back , Back minus front , dan Create a new object that surrounds the selected objects. Perhatikan gambar dibawah ini. Dari gambar tersebut teknik shaping yang digunakan adalah\u2026."
+    },
+    {
+        "answer": "Vektor",
+        "question": "Grafik computer yang tersusun dari elemen kurva atau garis dikenal dengan nama grafik\u2026."
+    },
+    {
+        "answer": "Bitmap",
+        "question": "Sebuah foto dari kamera digital yang akan dicetak dalam sebuah majalah sebaiknya diproses menggunakan program aplikasi grafis yang sesuai yaitu \u2026.."
+    },
+    {
+        "answer": "Gambar akan pecah jika diperbesar",
+        "question": "Kekurangan dari gambar yang menggunakan metode bitmap adalah\u2026."
+    },
+    {
+        "answer": "Intersect",
+        "question": "Fasilitas CorelDraw yang digunakan untuk membuat objek baru hasil irisan antara dua objek adalah\u2026."
+    },
+    {
+        "answer": "Weld",
+        "question": "Fasilitas CorelDraw yang digunakan untuk membuat objek baru hasil dari gabungan beberapa objek adalah\u2026."
+    },
+    {
+        "answer": "blend",
+        "question": "Efek yang digunakan untuk membuat salinan diantara dua objek dapat digunakan efek \u2026."
+    },
+    {
+        "answer": "contour",
+        "question": "Efek yang memberi bagian yang sama dengan ukuran atau resolusi yang sebanding dengan aslinya disebut efek\u2026"
+    },
+    {
+        "answer": "blend",
+        "question": "Gambar di bawah ini merupakan hasil dari efek\u2026."
+    },
+    {
+        "answer": "drop shadow",
+        "question": "Gambar disamping merupakan hasil dari efek \u2026."
+    },
+    {
+        "answer": "Shap tool",
+        "question": "Efek envelop adalah efek yang memungkinkan kita untuk menyunting objek yang telah kita buat, fungsi ini hampir sama dengan \u2026."
+    },
+    {
+        "answer": "distort",
+        "question": "Hasil dari efek gambar disamping adalah menggunakan efek\u2026."
+    },
+    {
+        "answer": "Transparency",
+        "question": "Efek yang digunakan untuk mengubah objek menjadi samar-samar adalah efek\u2026.."
+    },
+    {
+        "answer": "extrude",
+        "question": "Efek yang digunakan untuk membuat objek menjadi 3D adalah efek \u2026."
+    },
+    {
+        "answer": "contour",
+        "question": "Gambar disamping merupakan ikon efek\u2026."
+    },
+    {
+        "answer": "drop shadow",
+        "question": "Efek yang digunakan untuk membuat bayangan pada suatu objek adalah efek\u2026."
+    },
+    {
+        "answer": "estetika",
+        "question": "Warna sebagai unsure yang menonjol untuk mempercantik tampilan visual sehingga menambah kenikmatan bagi yang melihatnya merupakan salah satu fungsi warnma yaitu fungsi\u2026."
+    },
+    {
+        "answer": "Layout",
+        "question": "Kegiatan untuk Menyusun, menata, mengatur, dan memadukan unsur unsur komunikasi grafis menjadi komposisi karya visual yang komunikatif, estetik, persuasif, dan menarik merupakan pengertian dari\u2026"
+    },
+    {
+        "answer": "untuk pewarnaan sebuah image menjadi lebih lembut.",
+        "question": "Berikut ini yang termasuk kegunaan filter neon glow pada Adobe Photoshop yaitu\u2026."
+    },
+    {
+        "answer": "healing tool",
+        "question": "Tool Adobe Photoshop di bawah ini yang tidak dapat digunakan untuk membuat seleksi adalah\u2026"
+    },
+    {
+        "answer": "mode color burn",
+        "question": "Mode blend pada Adobe Photoshop yang berfungsi untuk menggelapkan warna untuk merefleksikan warna blend dengan meningkatkan kontrasnya adalah\u2026."
+    },
+    {
+        "answer": "drag layer 1 ke bawah layer 2",
+        "question": "Dalam Adobe Photoshop, misalkan layer 1 berada di bawah layer 2. Cara yang dapat dilakukan untuk meletakkan layer 1 di atas layer 2 adalah\u2026"
+    },
+    {
+        "answer": "mengubah tampilan gambar menjadi besar",
+        "question": "Misalkan kamu membuka file gambar menggunakan Adobe Photoshop. Jika kamu menekan tombol CRTL +=, maka tampilan dokumen gambar pada Adobe Photoshop akan\u2026.."
+    },
+    {
+        "answer": "CTRL + D",
+        "question": "Shortcut pada keyboard untuk menduplikat objek atau text pada CorelDraw adalah.."
+    },
+    {
+        "answer": "CTRL + J",
+        "question": "Shortcut pada keyboard untuk menduplikat objek atau text pada Adobe Photoshop adalah.."
+    },
+    {
+        "answer": "Shortcut pada keyboard untuk mengexport objek atau gambar pada CorelDraw adalah\u2026",
+        "question": "Shortcut pada keyboard untuk mengexport objek atau gambar pada CorelDraw adalah\u2026"
+    },
+    {
+        "answer": "CorelDraw",
+        "question": "Salah satu program berbasis vektor dalam kategori program image creation untuk proses cetak adalah\u2026."
+    },
+    {
+        "question": "Untuk memberi warna garis pada objek di CorelDraw cukup dengan \u2026. salah satu warna pada palette warna",
+        "answer": "Klik kanan"
+    }
+]
